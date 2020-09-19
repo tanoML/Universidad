@@ -1,7 +1,7 @@
 # Universidad
 Reportes sobre las estancias entregados en la institución<br/>
 
-Contenido del documento 1ra_estancia
+Contenido del documento 1ra_estancia<br/>
 	INTRODUCCIÓN	
 	CARACTERIZACIÓN DEL ÁREA EN QUE PARTICIPÓ	
 		Estructura Organizacional	
