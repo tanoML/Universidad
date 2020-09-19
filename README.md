@@ -1,5 +1,5 @@
 # Universidad
-Reportes sobre las estancias entregados en la institución 
+Reportes sobre las estancias entregados en la institución<br/>
 
 Contenido del documento 1ra_estancia
 	INTRODUCCIÓN	
