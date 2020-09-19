@@ -15,11 +15,11 @@ Contenido del documento 1ra_estancia<br/>
 	CONCLUSIONES Y RECOMENDACIONES<br/>
 	REFERENCIAS<br/>
 
-Contenido del documento 2da_estancia<br/>
+<h2>Contenido del documento 2da_estancia</h2><br/>
 
-	INTRODUCCIÓN<br/>
-	CARACTERIZACIÓN DEL ÁREA EN QUE PARTICIPÓ<br/>
-	ESTRUCTURA ORGANIZACIONAL.<br/>
+	INTRODUCCIÓN<br />
+	CARACTERIZACIÓN DEL ÁREA EN QUE PARTICIPÓ<br />
+	ESTRUCTURA ORGANIZACIONAL.<br />
 	OBJETIVOS<br/>
 	GENERAL:<br/>
 	ESPECÍFICOS:<br/>	
@@ -39,10 +39,10 @@ Contenido del documento 2da_estancia<br/>
 <h3>Contenido del documento Serv. Social Informe Final</h3><br/>
 
 
-	Antecedentes de la Institución<br/>
-	Misión de la Institución<br/>
-	Actividades y Resultados<br/>
-	Analiza a manera de ensayo  las siguientes cuestiones respecto a tu Servicio Social:<br/>
+Antecedentes de la Institución<br/>
+Misión de la Institución<br/>
+Actividades y Resultados<br/>
+Analiza a manera de ensayo  las siguientes cuestiones respecto a tu Servicio Social:<br/>
 
  I.	¿Cómo contribuyó a tu formación integral?<br/>
 II.	¿Fomentó en ti una conciencia de solidaridad Social?<br/>
