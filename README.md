@@ -17,9 +17,9 @@ Contenido del documento 1ra_estancia<br/>
 
 <h2>Contenido del documento 2da_estancia</h2><br/>
 
-	INTRODUCCIÓN<br />
-	CARACTERIZACIÓN DEL ÁREA EN QUE PARTICIPÓ<br />
-	ESTRUCTURA ORGANIZACIONAL.<br />
+	INTRODUCCIÓN<br/>
+	CARACTERIZACIÓN DEL ÁREA EN QUE PARTICIPÓ<br/>
+	ESTRUCTURA ORGANIZACIONAL.<br/>
 	OBJETIVOS<br/>
 	GENERAL:<br/>
 	ESPECÍFICOS:<br/>	
