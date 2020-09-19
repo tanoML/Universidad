@@ -36,7 +36,7 @@ Contenido del documento 2da_estancia<br/>
 	REFERENCIAS<br/>
 
 
-Contenido del documento Serv. Social Informe Final<br/>
+<h3>Contenido del documento Serv. Social Informe Final</h3><br/>
 
 
 	Antecedentes de la Institución<br/>
